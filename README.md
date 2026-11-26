@@ -1,0 +1,1 @@
+# ESP32-CAM-Python-QR-Recognized
